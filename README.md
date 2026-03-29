@@ -37,8 +37,8 @@ The model demonstrates reliable performance in predicting disease presence.
 
 ## Visualizations
 
-### 🔹 Correlation Heatmap
+### Correlation Heatmap
 ![Heatmap](images/heatmap.png)
 
-### 🔹 Confusion Matrix
+### Confusion Matrix
 ![Confusion Matrix](images/confusion_matrix.png)

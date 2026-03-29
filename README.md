@@ -34,11 +34,3 @@ The objective is to assist in early detection using data-driven models.
 - Accuracy: 88%
 
 The model demonstrates reliable performance in predicting disease presence.
-
-## Visualizations
-
-### Correlation Heatmap
-![Heatmap](images/heatmap.png)
-
-### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)

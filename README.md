@@ -42,7 +42,3 @@ The model demonstrates reliable performance in predicting disease presence.
 
 ### 🔹 Confusion Matrix
 ![Confusion Matrix](images/confusion_matrix.png)
-
----
-
-## 📂 Project Structure

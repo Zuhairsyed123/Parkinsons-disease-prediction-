@@ -1,11 +1,9 @@
-# Parkinsons Disease Prediction using Machine Learning
+# Parkinson's Disease Prediction using Machine Learning
 
 ##  Overview
-This project focuses on predicting the likelihood of Parkinson’s disease using machine learning techniques based on medical data.
+This project predicts the presence of Parkinson’s Disease using machine learning techniques based on biomedical voice measurements.
 
-- Parkinson’s Prediction → based on biomedical voice measurements  
-
-The objective is to assist in early detection using data-driven models.
+Parkinson’s Disease is a neurodegenerative disorder that affects movement and speech. Early detection is crucial, and this project aims to assist in preliminary diagnosis using data-driven methods
 
 ## Tech Stack
 - Python  
@@ -27,6 +25,7 @@ The objective is to assist in early detection using data-driven models.
 ##  Model Details
 - Algorithm: Support Vector Machine (SVM)  
 - Kernel: linear 
+- Feature Scaling applied for better performance
 
 ##  Results
 - Accuracy: 88%

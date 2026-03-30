@@ -1,9 +1,8 @@
 # Parkinsons Disease Prediction using Machine Learning
 
 ##  Overview
-This project focuses on predicting the likelihood of diseases such as Diabetes and Parkinson’s using machine learning techniques based on medical data.
+This project focuses on predicting the likelihood of Parkinson’s disease using machine learning techniques based on medical data.
 
-- Diabetes Prediction → based on health-related attributes  
 - Parkinson’s Prediction → based on biomedical voice measurements  
 
 The objective is to assist in early detection using data-driven models.
@@ -27,8 +26,7 @@ The objective is to assist in early detection using data-driven models.
 
 ##  Model Details
 - Algorithm: Support Vector Machine (SVM)  
-- Kernel: (mention your kernel here → linear / rbf)  
-- Feature scaling applied for improved performance 
+- Kernel: linear 
 
 ##  Results
 - Accuracy: 88%
